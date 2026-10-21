@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Sumit Kamble - Cloud and DevOps" width="100%">
+</p>
 # Hi, I'm Sumit Kamble 👋
 
 ### ☁️ Cloud & DevOps Intern | AWS | CI/CD | Automation
