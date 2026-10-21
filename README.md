@@ -78,6 +78,17 @@
 </p>
 
 ---
+<div align="center">
+
+  <h2>☁️ Cloud & DevOps</h2>
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
+  <img src="https://img.shields.io/badge/Docker-0B1120?style=for-the-badge&logo=docker&logoColor=38BDF8">
+  <img src="https://img.shields.io/badge/Kubernetes-1E1B4B?style=for-the-badge&logo=kubernetes&logoColor=A78BFA">
+
+  <p><b>Build · Automate · Deploy · Scale</b></p>
+
+</div>
 
 ## 🚀 Featured Projects
 
