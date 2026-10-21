@@ -6,7 +6,7 @@
 <div align="center">
 
   <!-- Upload your banner to assets/github-banner.png -->
-  <img src="./assets/github-banner.png" width="100%" alt="Sumit Kamble - Cloud and DevOps" />
+  <img src="Sumit Kamble Cloud DevOps Banner.png" width="100%" alt="Sumit Kamble - Cloud and DevOps" />
 
   <br/>
 
