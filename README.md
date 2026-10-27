@@ -121,7 +121,7 @@
 - Learn how network segmentation and security controls support cloud application design.
 - Document architecture, configuration, and deployment steps.
 
-🔗 Add your repository link here when the project repository is available.
+🔗 **[View Repository](https://github.com/sumitk-Cloud/AWS-3-tier-Architecture.git)**
 
 ### 04 | Real-Time Infrastructure Monitoring and Alerting Using Prometheus and Grafana
 **Tech:** NodeExporter · Grafana · Prometheus · PromQL
