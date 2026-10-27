@@ -123,6 +123,17 @@
 
 🔗 Add your repository link here when the project repository is available.
 
+### 04 | Real-Time Infrastructure Monitoring and Alerting Using Prometheus and Grafana
+**Tech:** NodeExporter · Grafana · Prometheus · PromQL
+
+- Implemented real-time infrastructure monitoring on AWS EC2 using Prometheus, Node Exporter, and Grafana.
+- Configured centralized metrics collection to monitor CPU, memory, disk utilization, and server availability..
+- Created Grafana dashboards to visualize Linux server performance in real time..
+-Configured Prometheus alerting rules to detect high CPU usage and unavailable servers.
+
+🔗 **[View Repository](https://github.com/sumitk-Cloud/prometheus-grafana)**
+
+
 ---
 
 ## ⚙️ DevOps Workflow
