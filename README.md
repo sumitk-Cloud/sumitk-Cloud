@@ -101,7 +101,7 @@
 - Configured AWS access for the deployment workflow using IAM.
 - Practiced automated publishing through a CI/CD pipeline.
 
-🔗 **[View Repository](https://github.com/sumitk-Cloud/portfolio-cicd)**
+🔗 **[View Repository](https://github.com/sumitk-Cloud/portfolio-git)**
 
 ### 02 | Portfolio / Application Deployment — Jenkins CI/CD
 
